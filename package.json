@@ -1,0 +1,12 @@
+{
+  "name": "github-achievements-hunter",
+  "version": "1.0.0",
+  "description": "Hunting GitHub achievements legitimately",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["github", "achievements", "gamification"],
+  "author": "Gabriel Moreno Ribeiro",
+  "license": "MIT"
+}
